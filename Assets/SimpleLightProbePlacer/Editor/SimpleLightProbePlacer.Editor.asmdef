@@ -1,0 +1,18 @@
+{
+    "name": "SimpleLightProbePlacer.Editor",
+    "rootNamespace": "SimpleLightProbePlacer.Editor",
+    "references": [
+        "GUID:0ba8a1f0a7adbf24fba96c58cf850956"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
